@@ -1,0 +1,11 @@
+.form-label3:after {
+    content:"*";
+    color:red;
+    
+  }
+  .form-label3{
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+  }

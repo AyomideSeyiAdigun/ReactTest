@@ -1,0 +1,22 @@
+.card{
+   
+    background: #FFFFFF;
+/* Highest */
+
+box-shadow: 0px 10px 15px rgba(33, 30, 67, 0.08);
+border-radius: 10px;
+}
+.form__nextButton{
+    width: 160px;
+    background: linear-gradient(180deg, #F2C94C 0%, #F2994A 100%);
+border-radius: 10px;
+}
+
+.form__cancelButton{
+    color: #4E598C;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.total{
+    text-align: center;
+}

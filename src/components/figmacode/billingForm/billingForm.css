@@ -1,0 +1,26 @@
+
+.form-label{
+    font-family: 'Product Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+}
+.form-labelx:after {
+    content:"*";
+    color:red;
+    
+  }
+.form__nextButton{
+    width: 160px;
+    background: linear-gradient(180deg, #F2C94C 0%, #F2994A 100%);
+border-radius: 10px;
+}
+
+.form__cancelButton{
+    color: #4E598C;
+    margin-top: 5px;
+    text-decoration: none;
+}

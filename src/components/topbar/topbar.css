@@ -1,0 +1,31 @@
+.topbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.topbar__logo{
+width: 100px;
+object-fit: contain;
+margin: 0 20px;
+margin-top: 18px;
+text-decoration: none;
+color: goldenrod;
+}
+ 
+ 
+.topbar__nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.topbar__option{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}

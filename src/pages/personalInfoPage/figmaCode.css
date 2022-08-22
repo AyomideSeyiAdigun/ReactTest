@@ -1,0 +1,48 @@
+ .info{
+    background: linear-gradient(-4deg, white 50%, rgba(242, 153, 74, 0.2)   50%);
+ }
+ 
+ .info__title{
+    
+    margin-left: 15%;
+ }
+ .title{
+    color: #4E598C;
+    font-family: 'Product Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+ }
+
+ nav{
+     display: flex;
+     justify-content: space-between;
+     width: 70%;
+ }
+
+ nav a {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    color: #BDBDBD;
+    text-decoration: none;
+ }
+
+ nav a.active{
+    
+    color: #F2994A
+ }
+ nav a:hover{
+    color: #F2994A
+ }
+ .progress{
+     height: 1px;
+ }
+ .progress-bar1{
+     width: 33.3333%;
+     
+     background-color: #F2994A;
+ }
